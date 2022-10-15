@@ -5,7 +5,6 @@ export function Jumbotron() {
         <h1 className="display-4">
           Добро пожаловать в мой магазин игр GameStore
         </h1>
-
         <hr />
         <div className="pokemonbg"></div>
         <h3>Магазин видеоигр для игровых систем и персональных компьютеров.</h3>
